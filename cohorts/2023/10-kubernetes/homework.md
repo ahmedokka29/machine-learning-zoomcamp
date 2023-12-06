@@ -50,7 +50,7 @@ Here `<value>` is the probability of getting a credit card. You need to choose t
 
 * 0.3269
 * 0.5269
-* 0.7269
+* **0.7269**
 * 0.9269
 
 Now you can stop the container running in Docker.
@@ -66,9 +66,11 @@ You need to install:
 
 ## Question 2
 
-What's the version of `kind` that you have? 
+What's the version of `kind` that you have?
 
 Use `kind --version` to find out.
+
+> kind version 0.20.0
 
 
 ## Creating a cluster
